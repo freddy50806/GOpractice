@@ -1,0 +1,5 @@
+package: GOpractice/Shared
+import:
+- package: github.com/freddy50806/GOpractice
+  subpackages:
+  - tree/master/Shared/plugin/cal
